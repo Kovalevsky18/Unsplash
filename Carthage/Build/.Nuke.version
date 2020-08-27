@@ -1,0 +1,11 @@
+{
+  "commitish" : "9.1.1",
+  "iOS" : [
+    {
+      "hash" : "e8c0d18b44d7ee0f7f939b3adddb223616fa55737e5b274422f25fea6285b74f",
+      "name" : "Nuke",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+    }
+  ]
+}

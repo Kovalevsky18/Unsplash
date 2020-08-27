@@ -1,0 +1,12 @@
+strings:
+  inputs: Unsplash/Base.lproj
+  outputs:
+    - templateName: structured-swift5
+      output: Unsplash/Strings.swift
+xcassets:
+  inputs:
+    - Unsplash/Assets.xcassets
+  outputs:
+    - templateName: swift5
+      output: Unsplash/Assets.swift
+
